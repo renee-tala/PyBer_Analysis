@@ -19,7 +19,7 @@ We will also create a new Dataframe to show the fares between January 1st, 2019 
   - ride_data.csv and city_data.csv
   
  
-## Results: 
+## Results
 The image below shows the City Types and the differences in their data. 
 
 <p align="center">
@@ -32,7 +32,7 @@ The biggest difference between these city types are the  Average Fare per Driver
 
 *insert total fare by city type line chart when I figure out how to make it work*
 
-## Summary: 
+## Summary
 After looking at the data and results, we can conclude that:
   - Urban cities bring in the most revenue
   - Increasing rides in Suburban and Rural towns is a necessity.
