@@ -22,7 +22,7 @@ We will also create a new Dataframe to show the fares between January 1st, 2019 
 ## Results: 
 The image below s
 
-<p align="center" width="100%">
+<p align="center">
     <img width="33%" src=pyber_summary_screenshot.png> 
 </p>
 
