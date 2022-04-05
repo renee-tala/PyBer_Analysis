@@ -20,9 +20,13 @@ We will also create a new Dataframe to show the fares between January 1st, 2019 
   
  
 ## Results: 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+The image below s
 
-![summary](pyber_summary_screenshot.png)
+<p align="center" width="100%">
+    <img width="33%" src=![summary](pyber_summary_screenshot.png)> 
+</p>
+
+
 
 
 ## Summary: 
